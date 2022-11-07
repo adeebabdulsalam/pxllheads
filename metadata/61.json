@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/61.png",
+    "tokenId": 61,
+    "name": "NFT #061",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Graphite"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Wings"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/77.png",
+    "tokenId": 77,
+    "name": "NFT #077",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Memories"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Props",
+            "value": "The Sprawl (East)"
+        }
+    ]
+}

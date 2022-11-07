@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/74.png",
+    "tokenId": 74,
+    "name": "NFT #074",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "None"
+        }
+    ]
+}

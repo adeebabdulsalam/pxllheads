@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/38.png",
+    "tokenId": 38,
+    "name": "NFT #038",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pickle"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Wings"
+        }
+    ]
+}

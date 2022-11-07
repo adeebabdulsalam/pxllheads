@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/95.png",
+    "tokenId": 95,
+    "name": "NFT #095",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Daydreams"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Franken"
+        }
+    ]
+}

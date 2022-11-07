@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/49.png",
+    "tokenId": 49,
+    "name": "NFT #049",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Nightfall"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "None"
+        }
+    ]
+}

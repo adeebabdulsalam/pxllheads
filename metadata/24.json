@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/24.png",
+    "tokenId": 24,
+    "name": "NFT #024",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Iris"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "The Sprawl (East)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/23.png",
+    "tokenId": 23,
+    "name": "NFT #023",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Scan"
+        }
+    ]
+}

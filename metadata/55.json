@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/55.png",
+    "tokenId": 55,
+    "name": "NFT #055",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Raining Pills"
+        }
+    ]
+}

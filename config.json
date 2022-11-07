@@ -1,0 +1,30 @@
+{
+    "layers": [
+      {
+        "name": "Background",
+        "values": ["Azure", "Crimson", "Daydreams", "Graphite", "Iris", "Ivory", "Memories", "Nightfall", "Onyx", "Orange", "Pickle", "Tuscan"],
+        "trait_path": "./pxllheads/01_Background",
+        "filename": ["Azure", "Crimson", "Daydreams", "Graphite", "Iris", "Ivory", "Memories", "Nightfall", "Onyx", "Orange", "Pickle", "Tuscan"],
+        "weights": [8,8,8,8,8,8,8,8,8,8,8,12]
+      },
+      {
+        "name": "Class",
+        "values": ["Broken", "Classic", "Hollow"],
+        "trait_path": "./pxllheads/02_Class",
+        "filename": ["Broken", "Classic", "Hollow"],
+        "weights": [33,33,34]
+      },
+      {
+        "name": "Props",
+        "values": ["Bloom", "Bt", "Bubbles", "Creation of Adam", "Electric Love", "Franken", "Hot Lips", "None", "On Fire (Blue)", "On Fire", "Raining Pills", "Scan", "The Sprawl (East)", "Wings"],
+        "trait_path": "./pxllheads/03_Props",
+        "filename": ["Bloom", "Bt", "Bubbles", "Creation of Adam", "Electric Love", "Franken", "Hot Lips", "None", "On Fire (Blue)", "On Fire", "Raining Pills", "Scan", "The Sprawl (East)", "Wings"],
+        "weights": [7,7,7,7,7,7,7,7,7,7,7,7,7,9]
+      }
+    ],
+    "incompatibilities": [
+    ],
+    "baseURI": ".",
+    "name": "NFT #",
+    "description": "This is a description for this NFT series."
+  }

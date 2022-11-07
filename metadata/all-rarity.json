@@ -1,0 +1,43 @@
+[
+    {
+        "Background": {
+            "Tuscan": 13,
+            "Memories": 13,
+            "Ivory": 8,
+            "Daydreams": 9,
+            "Orange": 6,
+            "Iris": 8,
+            "Graphite": 8,
+            "Pickle": 8,
+            "Azure": 6,
+            "Nightfall": 11,
+            "Onyx": 6,
+            "Crimson": 4
+        }
+    },
+    {
+        "Class": {
+            "Broken": 39,
+            "Hollow": 35,
+            "Classic": 26
+        }
+    },
+    {
+        "Props": {
+            "On Fire (Blue)": 4,
+            "Bloom": 8,
+            "Franken": 5,
+            "Wings": 7,
+            "Hot Lips": 6,
+            "Creation of Adam": 4,
+            "Raining Pills": 11,
+            "Scan": 10,
+            "Bubbles": 5,
+            "The Sprawl (East)": 8,
+            "Bt": 8,
+            "Electric Love": 11,
+            "On Fire": 4,
+            "None": 9
+        }
+    }
+]

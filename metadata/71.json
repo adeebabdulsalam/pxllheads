@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/71.png",
+    "tokenId": 71,
+    "name": "NFT #071",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Azure"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Bloom"
+        }
+    ]
+}

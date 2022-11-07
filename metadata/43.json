@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/43.png",
+    "tokenId": 43,
+    "name": "NFT #043",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Azure"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Hot Lips"
+        }
+    ]
+}

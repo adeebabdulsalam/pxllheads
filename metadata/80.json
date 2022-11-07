@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/80.png",
+    "tokenId": 80,
+    "name": "NFT #080",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Daydreams"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Raining Pills"
+        }
+    ]
+}

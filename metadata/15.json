@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/15.png",
+    "tokenId": 15,
+    "name": "NFT #015",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tuscan"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "The Sprawl (East)"
+        }
+    ]
+}

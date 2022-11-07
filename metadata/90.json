@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/90.png",
+    "tokenId": 90,
+    "name": "NFT #090",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Nightfall"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Electric Love"
+        }
+    ]
+}

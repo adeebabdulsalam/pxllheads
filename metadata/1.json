@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/1.png",
+    "tokenId": 1,
+    "name": "NFT #001",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tuscan"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "On Fire (Blue)"
+        }
+    ]
+}

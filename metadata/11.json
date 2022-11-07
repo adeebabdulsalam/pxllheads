@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/11.png",
+    "tokenId": 11,
+    "name": "NFT #011",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Memories"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Raining Pills"
+        }
+    ]
+}

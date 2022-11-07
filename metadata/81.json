@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/81.png",
+    "tokenId": 81,
+    "name": "NFT #081",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Tuscan"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Props",
+            "value": "The Sprawl (East)"
+        }
+    ]
+}

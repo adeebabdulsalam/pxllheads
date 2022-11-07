@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/30.png",
+    "tokenId": 30,
+    "name": "NFT #030",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Azure"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Bloom"
+        }
+    ]
+}

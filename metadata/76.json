@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/76.png",
+    "tokenId": 76,
+    "name": "NFT #076",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Nightfall"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Hollow"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Raining Pills"
+        }
+    ]
+}

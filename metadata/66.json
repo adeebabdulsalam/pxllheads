@@ -1,0 +1,20 @@
+{
+    "image": "ipfs://sample.uri/images/66.png",
+    "tokenId": 66,
+    "name": "NFT #066",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Broken"
+        },
+        {
+            "trait_type": "Props",
+            "value": "Creation of Adam"
+        }
+    ]
+}
