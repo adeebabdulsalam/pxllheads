@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3986",
+  "image": "3986.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Cap (Grey)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Clear Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin pink"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    }
+  ],
+  "id": 3986
+}

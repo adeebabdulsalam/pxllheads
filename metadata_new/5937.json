@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5937",
+  "image": "5937.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Crystals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 5937
+}

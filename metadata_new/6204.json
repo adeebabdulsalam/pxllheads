@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6204",
+  "image": "6204.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Electric Guitar (Black)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Black Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee polka blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 6204
+}

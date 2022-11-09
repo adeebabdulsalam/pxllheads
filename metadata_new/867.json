@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #867",
+  "image": "867.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Saber (Blue)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Hello Sticker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 867
+}

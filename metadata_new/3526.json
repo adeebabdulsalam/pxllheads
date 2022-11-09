@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3526",
+  "image": "3526.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Yellow)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Safety Goggles"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Zipped Hoodie (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    }
+  ],
+  "id": 3526
+}

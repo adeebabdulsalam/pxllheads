@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #29",
+  "image": "29.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "PEZ A"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Helmet"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Deal with it"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Hoodie (Grey)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 29
+}

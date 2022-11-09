@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3521",
+  "image": "3521.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Neon)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Ol' White Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 3521
+}

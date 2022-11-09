@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2456",
+  "image": "2456.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat (nails)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 2456
+}

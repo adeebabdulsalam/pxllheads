@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2074",
+  "image": "2074.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Grenade Launcher"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Deal with it"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Los Muertos Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    }
+  ],
+  "id": 2074
+}

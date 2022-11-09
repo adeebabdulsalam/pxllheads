@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4519",
+  "image": "4519.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Cap (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee purple white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 4519
+}

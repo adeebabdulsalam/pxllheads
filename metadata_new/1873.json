@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1873",
+  "image": "1873.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Electric Love"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Orange Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Zipped Hoodie (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee polka yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 1873
+}

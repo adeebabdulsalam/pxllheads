@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4411",
+  "image": "4411.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Boombox A"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Neon)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin pink"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 4411
+}

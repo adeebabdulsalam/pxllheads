@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6420",
+  "image": "6420.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Crystals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Camo B)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Purple)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 6420
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3761",
+  "image": "3761.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fallout Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 3761
+}

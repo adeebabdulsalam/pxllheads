@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2462",
+  "image": "2462.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cadet Cap (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Orange)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 2462
+}

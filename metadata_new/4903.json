@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4903",
+  "image": "4903.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Saber (Green)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Yellow)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Running Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 4903
+}

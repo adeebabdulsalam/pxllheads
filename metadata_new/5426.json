@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5426",
+  "image": "5426.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Scan"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Diamond hands"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Red)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydreams"
+    }
+  ],
+  "id": 5426
+}

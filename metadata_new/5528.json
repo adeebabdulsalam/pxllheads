@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5528",
+  "image": "5528.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Scan"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Car Dice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 5528
+}

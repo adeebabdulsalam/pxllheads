@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1094",
+  "image": "1094.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Bep's Flower Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Cap (Grey)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 1094
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #437",
+  "image": "437.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Zipped Hoodie (Blue)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "ONI"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 437
+}

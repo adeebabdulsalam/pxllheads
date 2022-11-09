@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #64",
+  "image": "64.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "On fire"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat (nails)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Safety Goggles"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee purple white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 64
+}

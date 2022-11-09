@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4791",
+  "image": "4791.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Boombox B"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Clear Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee polka yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bricks broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 4791
+}

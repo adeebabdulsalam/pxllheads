@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #199",
+  "image": "199.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Take the Pill"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Crystals"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Orange Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 199
+}

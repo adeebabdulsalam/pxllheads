@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2649",
+  "image": "2649.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 2649
+}

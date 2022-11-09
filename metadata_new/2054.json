@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2054",
+  "image": "2054.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Camo B)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 2054
+}

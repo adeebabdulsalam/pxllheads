@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5125",
+  "image": "5125.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Saber (Green)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sleeveless Puffer (Pink)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee light blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 5125
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6130",
+  "image": "6130.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses Heart"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Blazer A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 6130
+}

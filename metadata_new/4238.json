@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4238",
+  "image": "4238.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "The Sprawl (East)"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Chains"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cadet Cap (Camo)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 4238
+}

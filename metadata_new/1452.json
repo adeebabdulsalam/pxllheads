@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1452",
+  "image": "1452.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Cricket Ball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Safety Vest"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Ol' White Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 1452
+}

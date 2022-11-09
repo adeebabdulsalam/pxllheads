@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3675",
+  "image": "3675.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Boombox B"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Stickers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Gradient)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Safety Vest (Limited)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee gm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 3675
+}

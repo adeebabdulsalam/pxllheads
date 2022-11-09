@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4427",
+  "image": "4427.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "The Sprawl (East)"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Shovel"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 4427
+}

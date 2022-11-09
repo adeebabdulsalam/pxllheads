@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1861",
+  "image": "1861.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 1861
+}

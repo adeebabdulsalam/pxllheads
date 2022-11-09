@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4123",
+  "image": "4123.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Yellow)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Green)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Safety Goggles"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Blazer A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 4123
+}

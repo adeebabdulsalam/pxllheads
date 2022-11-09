@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3799",
+  "image": "3799.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat (nails)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydreams"
+    }
+  ],
+  "id": 3799
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1213",
+  "image": "1213.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Axe"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (Yellow)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 1213
+}

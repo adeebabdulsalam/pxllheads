@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #317",
+  "image": "317.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Piercing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Clear Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Bomber (Limited A)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 317
+}

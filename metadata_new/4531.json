@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4531",
+  "image": "4531.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat (nails)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Stickers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Camo B)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    }
+  ],
+  "id": 4531
+}

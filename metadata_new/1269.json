@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1269",
+  "image": "1269.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "PEZ A"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Gradient)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Duster"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee (Baseball)"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Kintsugi Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 1269
+}

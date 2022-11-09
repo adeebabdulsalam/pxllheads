@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6067",
+  "image": "6067.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Black)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee yellow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fallout Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 6067
+}

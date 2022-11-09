@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5460",
+  "image": "5460.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Money Gun"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Yellow)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suede Jacket"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pickle"
+    }
+  ],
+  "id": 5460
+}

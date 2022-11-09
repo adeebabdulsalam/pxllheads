@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1825",
+  "image": "1825.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Hello Sticker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee yellow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 1825
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3862",
+  "image": "3862.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Scan"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Shovel"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cadet Cap (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses Heart"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee black color"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 3862
+}

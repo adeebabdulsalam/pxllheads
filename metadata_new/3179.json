@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3179",
+  "image": "3179.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Take the Pill"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Chains"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Orange)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee black color"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 3179
+}

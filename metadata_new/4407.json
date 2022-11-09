@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4407",
+  "image": "4407.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Take the Pill"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Car Dice"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Orange Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Running Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 4407
+}

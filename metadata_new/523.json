@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #523",
+  "image": "523.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Biker"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Ol' White Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin mix"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 523
+}

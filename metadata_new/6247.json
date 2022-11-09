@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6247",
+  "image": "6247.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Take the Pill"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses 3D"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 6247
+}

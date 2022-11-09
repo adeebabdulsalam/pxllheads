@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1187",
+  "image": "1187.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Clear Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Ol' White Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 1187
+}

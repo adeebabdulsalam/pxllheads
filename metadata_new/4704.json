@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4704",
+  "image": "4704.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Helmet"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Black)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee black color"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fallout Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 4704
+}

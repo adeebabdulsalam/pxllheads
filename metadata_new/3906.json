@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3906",
+  "image": "3906.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Nunchucks"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Black Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suede Jacket"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee gm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 3906
+}

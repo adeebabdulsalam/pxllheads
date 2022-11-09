@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5432",
+  "image": "5432.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Creation of Adam"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Cricket Ball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses Heart"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Overalls (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Ol' White Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Truth Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pickle"
+    }
+  ],
+  "id": 5432
+}

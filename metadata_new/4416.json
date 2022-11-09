@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4416",
+  "image": "4416.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Hello Sticker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Green)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Tactical Suit"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 4416
+}

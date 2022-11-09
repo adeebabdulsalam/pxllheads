@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6098",
+  "image": "6098.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Safety Goggles"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Duster"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee grey black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydreams"
+    }
+  ],
+  "id": 6098
+}

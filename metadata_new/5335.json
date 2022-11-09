@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5335",
+  "image": "5335.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "da bomb"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Deal with it"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Puffer A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 5335
+}

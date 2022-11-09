@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2102",
+  "image": "2102.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "PEZ A"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nightfall"
+    }
+  ],
+  "id": 2102
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6117",
+  "image": "6117.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Chains"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Red)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Puffer B"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee polka blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 6117
+}

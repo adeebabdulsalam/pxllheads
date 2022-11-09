@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4387",
+  "image": "4387.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Stickers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Helmet"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "chic A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 4387
+}

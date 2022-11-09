@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2136",
+  "image": "2136.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Diamond hands"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Smile Poster"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sleeveless Puffer (Pink)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 2136
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3882",
+  "image": "3882.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 3882
+}

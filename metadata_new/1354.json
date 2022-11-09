@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1354",
+  "image": "1354.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Raining Pills"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Saber (Blue)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suit C"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 1354
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1907",
+  "image": "1907.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cadet Cap (Camo)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Black Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Bomber (Camo)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "ONI"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin mix"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 1907
+}

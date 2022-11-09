@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4669",
+  "image": "4669.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "PEZ B"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Denim)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses Heart"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Hawaii (Green)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 4669
+}

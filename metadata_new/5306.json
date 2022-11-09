@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5306",
+  "image": "5306.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Smile Poster"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Zipped Hoodie (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank neon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 5306
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6120",
+  "image": "6120.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee beige"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Onyx"
+    }
+  ],
+  "id": 6120
+}

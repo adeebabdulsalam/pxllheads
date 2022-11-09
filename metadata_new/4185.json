@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4185",
+  "image": "4185.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Creation of Adam"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee polka yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 4185
+}

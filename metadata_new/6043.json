@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6043",
+  "image": "6043.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank rasta"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "bubblegum Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pickle"
+    }
+  ],
+  "id": 6043
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2500",
+  "image": "2500.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Flames"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee purple white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pickle"
+    }
+  ],
+  "id": 2500
+}

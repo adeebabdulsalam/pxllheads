@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4405",
+  "image": "4405.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Boombox B"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Hello Sticker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Deadman's hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee yellow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 4405
+}

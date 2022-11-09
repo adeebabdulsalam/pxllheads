@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6446",
+  "image": "6446.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Nunchucks"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie (Orange)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Black Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Puffer B"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Memories"
+    }
+  ],
+  "id": 6446
+}

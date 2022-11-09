@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #2574",
+  "image": "2574.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Boombox B"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Piercing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Camo B)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee tie dye B"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin blue"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 2574
+}

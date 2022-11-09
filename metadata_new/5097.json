@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5097",
+  "image": "5097.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Cricket Ball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (White)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Deal with it"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suede Jacket"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee gm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Synthetic Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "id": 5097
+}

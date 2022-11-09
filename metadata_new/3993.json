@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3993",
+  "image": "3993.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "On fire"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Purple)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee purple white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 3993
+}

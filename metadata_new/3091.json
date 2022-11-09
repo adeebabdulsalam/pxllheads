@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3091",
+  "image": "3091.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Assault Rifle"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses 3D"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suede Jacket"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank rasta"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 3091
+}

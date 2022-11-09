@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5550",
+  "image": "5550.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Franken"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Butterfly (Green)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Deal with it"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Blazer A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee ipwt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Graphite"
+    }
+  ],
+  "id": 5550
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3331",
+  "image": "3331.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Creation of Adam"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Assault Rifle"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Cricket Ball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Officer (Red)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee white blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 3331
+}

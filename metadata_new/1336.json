@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1336",
+  "image": "1336.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Red)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Safety Helmet"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Blue)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Red)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Skin Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Daydreams"
+    }
+  ],
+  "id": 1336
+}

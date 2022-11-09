@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #3534",
+  "image": "3534.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Grenade Launcher"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Stickers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket (Yellow)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Orange Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee purple white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pickle"
+    }
+  ],
+  "id": 3534
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #4991",
+  "image": "4991.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "On fire"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Grenade Launcher"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sleeveless Puffer (Pink)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Running Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Obsidian Classic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 4991
+}

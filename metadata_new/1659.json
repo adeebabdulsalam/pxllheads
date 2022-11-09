@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1659",
+  "image": "1659.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Diamond hands"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Duct Tape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband (Black)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ivory"
+    }
+  ],
+  "id": 1659
+}

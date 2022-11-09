@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #340",
+  "image": "340.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Hot Lips"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Smile Poster"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Orange)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Letterman (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tank tie dye A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Resin pink"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Azure"
+    }
+  ],
+  "id": 340
+}

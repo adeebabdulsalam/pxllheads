@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #5164",
+  "image": "5164.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Franken"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Cricket Bat"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Neon (Blue)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Wayfarers (Red)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Sling bag (Yellow)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee ipwt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tuscan"
+    }
+  ],
+  "id": 5164
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #6499",
+  "image": "6499.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators (Orange)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Overalls (Black)"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "Tee yellow black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Purple Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    }
+  ],
+  "id": 6499
+}

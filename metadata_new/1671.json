@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #1671",
+  "image": "1671.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "Franken"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Axe"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Crown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "chic A"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewed"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrazo Broken"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Iris"
+    }
+  ],
+  "id": 1671
+}

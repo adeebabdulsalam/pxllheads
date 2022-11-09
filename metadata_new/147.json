@@ -1,0 +1,51 @@
+{
+  "name": "Pillheads #147",
+  "image": "147.png",
+  "attributes": [
+    {
+      "trait_type": "Props",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Saber (Red)"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Button (Yellow)"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap (Blue)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Glasses (Orange Round)"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "Suit C"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leather Hollow"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Iris"
+    }
+  ],
+  "id": 147
+}
